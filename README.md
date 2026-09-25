@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/MaiconCorozo/MaiconCorozo-/commit/82aecbfaf7d012072f68a98253aad855d910849f" alt="banner futurista" width="700"/>
+  <img src="https://github.com/MaiconCorozo/MaiconCorozo/blob/main/banner.svg" alt="banner futurista" width="700"/>
 </p>
 
 ## 🛠️ Lenguajes y tecnologías
