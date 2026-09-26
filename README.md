@@ -3,12 +3,27 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Estudiante+de+TIC+%40+UTLVTE;Presidente+de+curso;Creador+de+ENIGM4;Construyendo+sistemas+con+IA" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=550&lines=Construyendo+un+bot+de+trading+autonomo;Risk-first+architecture;Multi-agente+%2B+aprendizaje+continuo;Estudiante+de+TIC+%40+UTLVTE" alt="typing" />
 </p>
 
+## 🚀 Proyecto destacado
+
 <p align="center">
-  <img src="https://github.com/MaiconCorozo/MaiconCorozo/blob/main/banner.svg" alt="banner futurista" width="700"/>
+  <img src="https://github.com/MaiconCorozo/trading-bot" alt="trading-bot" width="750"/>
 </p>
+
+**[trading-bot](https://github.com/MaiconCorozo/trading-bot)** — sistema de
+trading algorítmico multi-mercado con arquitectura *risk-first*: un
+risk kernel síncrono valida cada orden antes de ejecutarse, múltiples
+estrategias compiten y se reponderan solas según su desempeño (nunca se
+eliminan, se hibernan), y todo el estado persiste en SQLite/PostgreSQL
+para sobrevivir reinicios. Kill switch que nunca se reactiva solo.
+
+<!-- Si el repo es público, descomenta esta línea:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaiconCorozo&repo=trading-bot&theme=tokyonight&hide_border=true" />
+</p>
+-->
 
 ## 🛠️ Lenguajes y tecnologías
 
@@ -25,16 +40,23 @@
   <img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
-## 🚀 En qué estoy trabajando
+## 📂 Otros proyectos
 
-- **trading-bot** — bot de trading algorítmico con risk kernel y aprendizaje automático
 - **Kipu** — app de finanzas personales open source y local-first
+- **GODS EYE** — plataforma de vigilancia biométrica
 - **ENIGM4** — canal de contenido y marca de streetwear
+
+## 📊 Estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MaiconCorozo&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiconCorozo&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaiconCorozo&theme=tokyonight&hide_border=true" width="60%"/>
+</p>
 
 ## 📫 Contacto
 
 - Correo: maiconcoroso2002@gmail.com
-
-
-
-![stats](https://github-readme-stats.vercel.app/api?username=MaiconCorozo&show_icons=true&theme=tokyonight&hide_border=true)
