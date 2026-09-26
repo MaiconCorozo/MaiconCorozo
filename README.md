@@ -9,7 +9,7 @@
 ## 🚀 Proyecto destacado
 
 <p align="center">
-  <img src="https://github.com/MaiconCorozo/trading-bot" alt="trading-bot" width="750"/>
+  <img src="https://github.com/MaiconCorozo/MaiconCorozo/blob/main/banner-trading-bot.svg" alt="trading-bot" width="750"/>
 </p>
 
 **[trading-bot](https://github.com/MaiconCorozo/trading-bot)** — sistema de
